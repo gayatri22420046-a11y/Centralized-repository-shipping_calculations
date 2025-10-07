@@ -1,3 +1,6 @@
+# Simple Interest Calculator
+This project calculates simple interest.
+
 # LogisticsShippingRates
 Please consider the below factors while contributing
 
